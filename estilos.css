@@ -1,0 +1,24 @@
+.foto_perfil{
+    width: 159px;
+    height: 179px;
+}
+
+
+.nombre{
+    font-size: 1.5rem;
+    color: black;
+}
+
+h1{
+    font-size: 1.5rem;
+    color: blue; 
+}
+
+.col-8{
+    border-left: 1px solid;
+}
+
+.informacion{
+    list-style: none;
+    
+}
